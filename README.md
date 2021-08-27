@@ -1,8 +1,8 @@
-### 2021학년도 하계 학부연구생 모집 관련
-- 활동시기: 2021년 7월-8월
+### 2022학년도 동계 학부연구생 모집 관련
+- 활동시기: 2022년 1월-2월
 - 대상자: 대학원 진학 희망자 & 컴퓨터비전연구을 전공하기 희망하는 자
 - 지원방법: 지원시기에 지원서 제출 및 교수님께 사전 컨택
-- 2021년 5월 중으로 신청자를 중심으로 티타임 예정
+- 2021년 11월 중으로 신청자를 중심으로 티타임 예정
 - 의무사항: 연구윤리를 지킬줄 아는 자 (!!)
 
 ### 활동했던 학부연구생들
@@ -16,7 +16,7 @@
 
 
 ### "RCV-URP 를 마치며" 학부연구원 후기 모음
-- 2021년 하계: [김우혁](), [이연희](), [김지수](), [조영래](), [이현주](), [장윤정](), [이광진]()
+- 2021년 하계: [김우혁](http://server.rcv.sejong.ac.kr:8080/2021/08/28/2021-%ed%95%98%ea%b3%84%ea%b9%80%ec%9a%b0%ed%98%81-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이연희](http://server.rcv.sejong.ac.kr:8080/2021/08/28/2021-%ed%95%98%ea%b3%84%ec%9d%b4%ec%97%b0%ed%9e%88-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김지수](http://server.rcv.sejong.ac.kr:8080/2021/08/28/2021-%ed%95%98%ea%b3%84%ea%b9%80%ec%a7%80%ec%88%98-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [조영래](), [이현주](), [장윤정](), [이광진]()
 - 2021년 동계: [홍주영](http://server.rcv.sejong.ac.kr:8080/2021/03/02/2021-rcv-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [임근택](http://server.rcv.sejong.ac.kr:8080/2021/03/01/rcv-%eb%8f%99%ea%b3%84-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%ea%b3%a0/), [김진명](http://server.rcv.sejong.ac.kr:8080/2021/03/01/2021-rcv-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이승현](http://server.rcv.sejong.ac.kr:8080/2021/03/01/2021-winter-urp%eb%a5%bc-%eb%a7%88%eb%ac%b4%eb%a6%ac%ed%95%98%eb%a9%b0/)
 - 2020년 하계: [김형준](http://server.rcv.sejong.ac.kr:8080/2020/08/31/2%eb%8b%ac%ea%b0%84%ec%9d%98-%ed%95%99%eb%b6%80%ec%97%b0%ea%b5%ac%eb%a5%bc-%eb%a7%88%eb%ac%b4%eb%a6%ac%ed%95%98%eb%a9%b0/)
 - 2020년 동계: [정찬호](http://server.rcv.sejong.ac.kr:8080/2020/04/01/3%ea%b0%9c%ec%9b%94-%eb%8f%99%ec%95%88%ec%9d%98-%ed%95%99%eb%b6%80%ec%97%b0%ea%b5%ac-%ec%b0%b8%ec%97%ac-%ea%b8%b0%eb%a1%9d/), [이진수](http://server.rcv.sejong.ac.kr:8080/2020/03/30/3%ea%b0%9c%ec%9b%94-rcv-%ec%97%b0%ea%b5%ac%ec%8b%a4-%ed%95%99%eb%b6%80%ec%97%b0%ea%b5%ac%ec%b0%b8%ec%97%ac%eb%a5%bc-%eb%a7%88%eb%ac%b4%eb%a6%ac-%ed%95%98%eb%a9%b0/)
