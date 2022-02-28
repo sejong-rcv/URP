@@ -44,3 +44,9 @@
 - 2020년 하계: [김형준](http://server.rcv.sejong.ac.kr:8080/2020/08/31/2%eb%8b%ac%ea%b0%84%ec%9d%98-%ed%95%99%eb%b6%80%ec%97%b0%ea%b5%ac%eb%a5%bc-%eb%a7%88%eb%ac%b4%eb%a6%ac%ed%95%98%eb%a9%b0/)
 - 2020년 동계: [정찬호](http://server.rcv.sejong.ac.kr:8080/2020/04/01/3%ea%b0%9c%ec%9b%94-%eb%8f%99%ec%95%88%ec%9d%98-%ed%95%99%eb%b6%80%ec%97%b0%ea%b5%ac-%ec%b0%b8%ec%97%ac-%ea%b8%b0%eb%a1%9d/), [이진수](http://server.rcv.sejong.ac.kr:8080/2020/03/30/3%ea%b0%9c%ec%9b%94-rcv-%ec%97%b0%ea%b5%ac%ec%8b%a4-%ed%95%99%eb%b6%80%ec%97%b0%ea%b5%ac%ec%b0%b8%ec%97%ac%eb%a5%bc-%eb%a7%88%eb%ac%b4%eb%a6%ac-%ed%95%98%eb%a9%b0/)
 - 2019년 하계: [이동훈](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%ed%9b%84%ea%b8%b0-%eb%b0%8f-%ec%86%8c%ea%b0%90%eb%ac%b8/), [김태주](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%ea%b9%80%ed%83%9c%ec%a3%bc/), [김해린](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern/), [신정민](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%ed%9b%84%ea%b8%b0/), [박연정](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%eb%b0%95%ec%97%b0%ec%a0%95/), [함우빈](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%ed%95%a8%ec%9a%b0%eb%b9%88/), [김병주](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%ea%b9%80%eb%b3%91%ec%a3%bc/)
+
+
+### 진학 및 진로 상담 모음
+- https://github.com/sejong-rcv/URP/issues 를 참고하세요. 
+  -  해당 기록을 고액하는 이유는 비슷한 고민을 하고 있을 학생들을 위해서 입니다. 해당 내용의 불법적인 활용을 금합니다.
+  -  더불어 서신에 대한 답은 지극히 개인적인 견해임을 밝힙니다. 
