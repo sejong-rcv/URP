@@ -26,17 +26,19 @@
 
 
 ### 활동했던 학부연구생들
-- 2022년 동계: 배정준(17), 김현우(18*), 이승훈(18), 권석준(18*), 조동현(18), 조용재(18), 이규리(20), 김병주(19*)
-- 2021년 하계: 김우혁(17), 이연희(19), 김지수(19), 조영래(17), 이현주(18*), 장윤정(18), 이광진(16*)
+- 2022년 하계: 김주연(17*), 천혜원(17*), 이상인(18*), 이현우(18)
+- 2022년 동계: 배정준(17), 김현우(18*), 이승훈(18), 권석준(18*), 조동현(18), 조용재(18), 이규리(20), 김병주(19)
+- 2021년 하계: 김우혁(17), 이연희(19), 김지수(19), 조영래(17), 이현주(18), 장윤정(18), 이광진(16*)
 - 2021년 동계: 홍주영(18*), 임근택(17*), 김진명(17), 이승현(19*), 조준혁(19)
 - 2020년 하계: 김형준(14*)
 - 2020년 동계: 이진수(18), 정찬호(19)
-- 2019년 하계: 이동훈(14), 김태주(17*), 김해린(17), 신정민(18*), 박연정(18), 함우빈(18), 김병주(19*)
+- 2019년 하계: 이동훈(14), 김태주(17*), 김해린(17), 신정민(18*), 박연정(18), 함우빈(18), 김병주(19)
 - 2019년 동계: 김지원(14*), 김남훈(17), 남현호(17), 조원(17*), 한대찬(17*), 황유진(18*), 이정민(18)    
 - (*) 현재 진학하였거나 학부연구생으로 활동 중인 
 
 
 ### "RCV-URP 를 마치며" 학부연구원 후기 모음
+- 2022년 하계: [김주연](http://server.rcv.sejong.ac.kr:8080/2022/08/28/%ea%b9%80%ec%a3%bc%ec%97%b0-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [천혜원](http://server.rcv.sejong.ac.kr:8080/2022/08/28/2022-%ed%95%98%ea%b3%84%ec%b2%9c%ed%98%9c%ec%9b%90-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이상인](http://server.rcv.sejong.ac.kr:8080/2022/08/28/2022-%ed%95%98%ea%b3%84%ec%9d%b4%ec%83%81%ec%9d%b8-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이현우](http://server.rcv.sejong.ac.kr:8080/2022/08/28/2022-%ed%95%98%ea%b3%84%ec%9d%b4%ed%98%84%ec%9a%b0-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
 - 2022년 동계: [배정준](http://server.rcv.sejong.ac.kr:8080/2022/02/25/2022-%eb%8f%99%ea%b3%84%eb%b0%b0%ec%a0%95%ec%a4%80-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김현우](http://server.rcv.sejong.ac.kr:8080/2022/02/25/2022-%eb%8f%99%ea%b3%84%ea%b9%80%ed%98%84%ec%9a%b0-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이승훈](http://server.rcv.sejong.ac.kr:8080/2022/02/25/2022-%eb%8f%99%ea%b3%84%ec%9d%b4%ec%8a%b9%ed%9b%88-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [권석준](http://server.rcv.sejong.ac.kr:8080/2022/02/25/2022-%eb%8f%99%ea%b3%84%ea%b6%8c%ec%84%9d%ec%a4%80-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [조동현](http://server.rcv.sejong.ac.kr:8080/2022/02/25/2022-%eb%8f%99%ea%b3%84%ec%a1%b0%eb%8f%99%ed%98%84-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [조용재](http://server.rcv.sejong.ac.kr:8080/2022/02/25/2022-%eb%8f%99%ea%b3%84%ec%a1%b0%ec%9a%a9%ec%9e%ac-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이규리](http://server.rcv.sejong.ac.kr:8080/2022/02/25/2022-%eb%8f%99%ea%b3%84%ec%9d%b4%ea%b7%9c%eb%a6%ac-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김병주](http://server.rcv.sejong.ac.kr:8080/2022/02/25/2022-%eb%8f%99%ea%b3%84%ea%b9%80%eb%b3%91%ec%a3%bc-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
 - 2021년 하계: [조영래](http://server.rcv.sejong.ac.kr:8080/2021/08/28/2021-%ed%95%98%ea%b3%84%ec%a1%b0%ec%98%81%eb%9e%98-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이현주](http://server.rcv.sejong.ac.kr:8080/2021/08/28/2021-%ed%95%98%ea%b3%84%ec%9d%b4%ed%98%84%ec%a3%bc-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이광진](http://server.rcv.sejong.ac.kr:8080/2021/08/28/2021-%ed%95%98%ea%b3%84%ec%9d%b4%ea%b4%91%ec%a7%84-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김우혁](http://server.rcv.sejong.ac.kr:8080/2021/08/28/2021-%ed%95%98%ea%b3%84%ea%b9%80%ec%9a%b0%ed%98%81-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이연희](http://server.rcv.sejong.ac.kr:8080/2021/08/28/2021-%ed%95%98%ea%b3%84%ec%9d%b4%ec%97%b0%ed%9e%88-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [장윤정](http://server.rcv.sejong.ac.kr:8080/2021/08/28/2021-%ed%95%98%ea%b3%84%ec%9e%a5%ec%9c%a4%ec%a0%95-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김지수](http://server.rcv.sejong.ac.kr:8080/2021/08/28/2021-%ed%95%98%ea%b3%84%ea%b9%80%ec%a7%80%ec%88%98-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
 - 2021년 동계: [홍주영](http://server.rcv.sejong.ac.kr:8080/2021/03/02/2021-rcv-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [임근택](http://server.rcv.sejong.ac.kr:8080/2021/03/01/rcv-%eb%8f%99%ea%b3%84-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%ea%b3%a0/), [김진명](http://server.rcv.sejong.ac.kr:8080/2021/03/01/2021-rcv-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이승현](http://server.rcv.sejong.ac.kr:8080/2021/03/01/2021-winter-urp%eb%a5%bc-%eb%a7%88%eb%ac%b4%eb%a6%ac%ed%95%98%eb%a9%b0/)
