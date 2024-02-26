@@ -26,6 +26,7 @@
 
 
 ### 활동했던 학부연구생들
+- (11기) 2024년 동계: 김영규(19), 유우진(22), 이재찬(19), 조현석(18), 최준서(21)
 - (10기) 2023년 하계: 김이나(21), 김예찬(19), 박서연(21), 박성준(19*), 백승우(21), 정의철(18*)
 - (9기) 2023년 동계: 양희진(17*), 손건화(20*), 정윤서(20*), 허재연(19*), 백지오(19*)
 - (8.5기) 2022년 번외: 김도경(19), 강응주(18), 최준영(20)
@@ -41,6 +42,7 @@
 
 
 ### "RCV-URP 를 마치며" 학부연구원 후기 모음
+- 2024년 동계 : [김영규](http://server.rcv.sejong.ac.kr:8080/2024/02/26/2024-%eb%8f%99%ea%b3%84%ea%b9%80%ec%98%81%ea%b7%9c-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [유우진](#), [이재찬](http://server.rcv.sejong.ac.kr:8080/2024/02/26/2024-%eb%8f%99%ea%b3%84%ec%9d%b4%ec%9e%ac%ec%b0%ac-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [조현석](http://server.rcv.sejong.ac.kr:8080/2024/02/26/2024-%eb%8f%99%ea%b3%84%ec%a1%b0%ed%98%84%ec%84%9d-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [최준서](http://server.rcv.sejong.ac.kr:8080/2024/02/26/2024-%eb%8f%99%ea%b3%84%ec%b5%9c%ec%a4%80%ec%84%9c-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
 - 2023년 하계 : [김이나](http://server.rcv.sejong.ac.kr:8080/2023/08/29/2023-2%ed%95%99%ea%b8%b0%ea%b9%80%ec%9d%b4%eb%82%98-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김예찬](http://server.rcv.sejong.ac.kr:8080/2023/08/29/2023-2%ed%95%99%ea%b8%b0%ea%b9%80%ec%98%88%ec%b0%ac-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [박서연](http://server.rcv.sejong.ac.kr:8080/2023/08/29/2023-2%ed%95%99%ea%b8%b0%eb%b0%95%ec%84%9c%ec%97%b0-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [박성준](http://server.rcv.sejong.ac.kr:8080/2023/08/29/2023-2%ed%95%99%ea%b8%b0%eb%b0%95%ec%84%b1%ec%a4%80-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [백승우](http://server.rcv.sejong.ac.kr:8080/2023/08/29/2023-2%ed%95%99%ea%b8%b0%eb%b0%b1%ec%8a%b9%ec%9a%b0-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [정의철](http://server.rcv.sejong.ac.kr:8080/2023/08/29/2023-2%ed%95%99%ea%b8%b0%ec%a0%95%ec%9d%98%ec%b2%a0-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
 - 2023년 동계 : [양희진](http://server.rcv.sejong.ac.kr:8080/2023/03/31/2023-1%ed%95%99%ea%b8%b0%ec%96%91%ed%9d%ac%ec%a7%84-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [손건화](http://server.rcv.sejong.ac.kr:8080/2023/03/31/2023-1%ed%95%99%ea%b8%b0%ec%86%90%ea%b1%b4%ed%99%94-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [정윤서](http://server.rcv.sejong.ac.kr:8080/2023/03/31/2023-1%ed%95%99%ea%b8%b0%ec%a0%95%ec%9c%a4%ec%84%9c-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [허재연](http://server.rcv.sejong.ac.kr:8080/2023/03/31/2023-1%ed%95%99%ea%b8%b0%ed%97%88%ec%9e%ac%ec%97%b0-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [백지오](http://server.rcv.sejong.ac.kr:8080/2023/03/31/2023-1%ed%95%99%ea%b8%b0%eb%b0%b1%ec%a7%80%ec%98%a4-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
 - 2022년 2학기: [김도경](http://server.rcv.sejong.ac.kr:8080/2022/12/06/2022-2%ed%95%99%ea%b8%b0%ea%b9%80%eb%8f%84%ea%b2%bd-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [강응주](http://server.rcv.sejong.ac.kr:8080/2022/12/06/2022-2%ed%95%99%ea%b8%b0%ea%b0%95%ec%9d%91%ec%a3%bc-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [최준영](http://server.rcv.sejong.ac.kr:8080/2022/12/06/2022-2%ed%95%99%ea%b8%b0%ec%b5%9c%ec%a4%80%ec%98%81-urp-%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
