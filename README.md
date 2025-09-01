@@ -31,8 +31,8 @@
 
 
 ### 활동했던 학부연구생들
-- (14기) 2025년 하계: 이재윤(20), 황찬미(21), 김정우(21), 김선주(21), 이예은(23), 김기현(25) 
-- (13기) 2025년 동계: 류지연(20), [안우현(19)](https://github.com/anuhyeon), [신인택(20)](https://github.com/shin-in-taek), [손우진(20)](https://github.com/koreawoojin), [김태경(20)](https://github.com/TKkim00), [이계무(20)](https://github.com/Gyemoo), [차승현(20)](https://github.com/seunghyun0108), [조재혁(21)](https://github.com/jhchoman)
+- (14기) 2025년 하계: [이재윤(20)](https://github.com/leejaeyun99), [황찬미(21)](https://github.com/chamxmi), [김정우(21)](https://github.com/revistain), [김선주(21)](https://github.com/KImsunju1), [이예은(23)](https://github.com/yeeunleee), [김기현(25)](https://github.com/monozu-deving)
+- (13기) 2025년 동계: [류지연(20)](https://github.com/jeeyunryu), [안우현(19)](https://github.com/anuhyeon), [신인택(20)](https://github.com/shin-in-taek), [손우진(20)](https://github.com/koreawoojin), [김태경(20)](https://github.com/TKkim00), [이계무(20)](https://github.com/Gyemoo), [차승현(20)](https://github.com/seunghyun0108), [조재혁(21)](https://github.com/jhchoman)
 - (12기) 2024년 하계: [한상준(20)](https://github.com/HanSangJun01), [최열음(20)](https://github.com/choiym84), [김나연(20)](https://github.com/naye0n00)
 - (11기) 2024년 동계: 조현석(18), 김영규(19), 이재찬(19), 최준서(21), 이우진(22)
 - (10기) 2023년 하계: 정의철(18), 박성준(19), 김예찬(19), 박서연(21), 백승우(21), 김이나(21)
