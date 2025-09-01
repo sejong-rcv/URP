@@ -1,6 +1,6 @@
 
-### 2025년 하계 14기 학부연구생 모집 관련
-- 활동시기: 2025년 7월-8월 
+### 2026년 동계 15기 학부연구생 모집 관련
+- 활동시기: 2026년 1월-2월 
 - 지원대상자: **대학원 진학 희망자 & 컴퓨터비전연구을 전공하기 희망하는 세종대학교 학생**
   - 컴퓨터비전이 무엇인지 경험하고 싶은 학생이 아닌 **컴퓨터비전 "연구"를 경험하고 싶은자만 지원 가능**
   - 만약 컴퓨터비전이 무엇인지 경험하고 싶은 학생 혹은 컴퓨터비전 개발자로 성장하고 싶은 학생은 
@@ -31,6 +31,7 @@
 
 
 ### 활동했던 학부연구생들
+- (14기) 2025년 하계: 이재윤(20), 황찬미(21), 김정우(21), 김선주(21), 이예은(23), 김기현(25) 
 - (13기) 2025년 동계: 류지연(20), 안우현(19), 신인택(20), 손우진(20), 김태경(20), 이계무(20), 차승현(20), 조재혁(21)
 - (12기) 2024년 하계: 한상준(20), 최열음(20), 김나연(20)
 - (11기) 2024년 동계: 김영규(19), 이우진(22), 이재찬(19), 조현석(18), 최준서(21)
@@ -49,6 +50,7 @@
 
 
 ### "RCV-URP 를 마치며" 학부연구원 후기 모음
+- (14기) 2025년 하계 : [이재윤](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ec%9d%b4%ec%9e%ac%ec%9c%a4-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [황찬미](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ed%99%a9%ec%b0%ac%eb%af%b8-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김정우](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ea%b9%80%ec%a0%95%ec%9a%b0-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김선주](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ea%b9%80%ec%84%a0%ec%a3%bc-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이예은](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ec%9d%b4%ec%98%88%ec%9d%80-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김기현](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ea%b9%80%ea%b8%b0%ed%98%84-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
 - (13기) 2025년 동계 : [류지연](http://server.rcv.sejong.ac.kr:8080/2025/03/04/2025-%eb%8f%99%ea%b3%84%eb%a5%98%ec%a7%80%ec%97%b0-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [안우현](http://server.rcv.sejong.ac.kr:8080/2025/03/04/2025-%eb%8f%99%ea%b3%84%ec%95%88%ec%9a%b0%ed%98%84-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [신인택](http://server.rcv.sejong.ac.kr:8080/2025/03/04/2025-%eb%8f%99%ea%b3%84%ec%8b%a0%ec%9d%b8%ed%83%9d-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [손우진](http://server.rcv.sejong.ac.kr:8080/2025/03/04/2025-%eb%8f%99%ea%b3%84%ec%86%90%ec%9a%b0%ec%a7%84-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김태경](http://server.rcv.sejong.ac.kr:8080/2025/03/04/2025-%eb%8f%99%ea%b3%84%ea%b9%80%ed%83%9c%ea%b2%bd-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이계무](http://server.rcv.sejong.ac.kr:8080/2025/03/04/2025-%eb%8f%99%ea%b3%84%ec%9d%b4%ea%b3%84%eb%ac%b4-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [차승현](http://server.rcv.sejong.ac.kr:8080/2025/03/04/2025-%eb%8f%99%ea%b3%84%ec%b0%a8%ec%8a%b9%ed%98%84-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [조재혁](http://server.rcv.sejong.ac.kr:8080/2025/03/04/2025-%eb%8f%99%ea%b3%84%ec%a1%b0%ec%9e%ac%ed%98%81-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
 - (12기) 2024년 하계 : [한상준](http://server.rcv.sejong.ac.kr:8080/2024/08/26/2024-%ed%95%98%ea%b3%84%ed%95%9c%ec%83%81%ec%a4%80-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [최열음](http://server.rcv.sejong.ac.kr:8080/2024/08/26/2024-%ed%95%98%ea%b3%84%ec%b5%9c%ec%97%b4%ec%9d%8c-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김나연](http://server.rcv.sejong.ac.kr:8080/2024/08/26/2024-%ed%95%98%ea%b3%84%ea%b9%80%eb%82%98%ec%97%b0-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
 - (11기) 2024년 동계 : [김영규](http://server.rcv.sejong.ac.kr:8080/2024/02/26/2024-%eb%8f%99%ea%b3%84%ea%b9%80%ec%98%81%ea%b7%9c-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이우진](http://server.rcv.sejong.ac.kr:8080/2024/02/27/2024-%eb%8f%99%ea%b3%84%ec%9d%b4%ec%9a%b0%ec%a7%84-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이재찬](http://server.rcv.sejong.ac.kr:8080/2024/02/26/2024-%eb%8f%99%ea%b3%84%ec%9d%b4%ec%9e%ac%ec%b0%ac-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [조현석](http://server.rcv.sejong.ac.kr:8080/2024/02/26/2024-%eb%8f%99%ea%b3%84%ec%a1%b0%ed%98%84%ec%84%9d-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [최준서](http://server.rcv.sejong.ac.kr:8080/2024/02/26/2024-%eb%8f%99%ea%b3%84%ec%b5%9c%ec%a4%80%ec%84%9c-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
