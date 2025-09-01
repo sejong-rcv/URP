@@ -30,24 +30,6 @@
 - [동영상 시청](https://youtube.com/playlist?list=PL1xKqHsVFgvkz8kymxTTCrljjXCa4fyZD)
 
 
-### 활동했던 학부연구생들
-- (14기) 2025년 하계: [이재윤(20)](https://github.com/leejaeyun99), [황찬미(21)](https://github.com/chamxmi), [김정우(21)](https://github.com/revistain), [김선주(21)](https://github.com/KImsunju1), [이예은(23)](https://github.com/yeeunleee), [김기현(25)](https://github.com/monozu-deving)
-- (13기) 2025년 동계: [류지연(20)](https://github.com/jeeyunryu), [안우현(19)](https://github.com/anuhyeon), [신인택(20)](https://github.com/shin-in-taek), [손우진(20)](https://github.com/koreawoojin), [김태경(20)](https://github.com/TKkim00), [이계무(20)](https://github.com/Gyemoo), [차승현(20)](https://github.com/seunghyun0108), [조재혁(21)](https://github.com/jhchoman)
-- (12기) 2024년 하계: [한상준(20)](https://github.com/HanSangJun01), [최열음(20)](https://github.com/choiym84), [김나연(20)](https://github.com/naye0n00)
-- (11기) 2024년 동계: 조현석(18), 김영규(19), 이재찬(19), 최준서(21), 이우진(22)
-- (10기) 2023년 하계: 정의철(18), 박성준(19), [김예찬(19)](https://blog.naver.com/dpcksdl78), 박서연(21), 백승우(21), 김이나(21)
-- (09기) 2023년 동계: 양희진(17), 허재연(19), 백지오(19), 손건화(20), 정윤서(20)
-- (8.5기) 2022년 번외: 김도경(19), 강응주(18), 최준영(20)
-- (08기) 2022년 하계: 이상인(17), 이현우(18), 김주연(19), 천혜원(19)
-- (07기) 2022년 동계: 배정준(17), 김현우(18), 이승훈(18), 권석준(18), [조동현(18)](https://www.linkedin.com/in/donghyeon-cho-b24b2b220/), [조용재(18)](https://ircv.hanyang.ac.kr/team/yongjae-cho), 김병주(19), 이규리(20)
-- (06기) 2021년 하계: [이광진(16)](https://scholar.google.com/citations?user=ieIcFBQAAAAJ), [김우혁(17)](https://woo525.github.io/), 조영래(17), 이현주(18), 장윤정(18), 이연희(19), [김지수(19)](https://jisoo1738.github.io/jisoo1738_profile/)
-- (05기) 2021년 동계: 홍주영(18), 임근택(17), [김진명(17)](https://scholar.google.com/citations?user=kQpcUQQAAAAJ&hl=ko), 이승현(19), 조준혁(19)
-- (04기) 2020년 하계: 김형준(14)
-- (03기) 2020년 동계: [이진수(18)](https://github.com/LeeJinSoo-BIN), 정찬호(19)
-- (02기) 2019년 하계: 이동훈(14), 김태주(17), 김해린(17), 신정민(18), 박연정(18), 함우빈(18), 김병주(19)
-- (01기) 2019년 동계: 김지원(14), 김남훈(17), 남현호(17), 조원(17), 한대찬(17), 황유진(18), 이정민(18)    
-
-
 
 ### "RCV-URP 를 마치며" 학부연구원 후기 모음
 - (14기) 2025년 하계 : [이재윤](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ec%9d%b4%ec%9e%ac%ec%9c%a4-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [황찬미](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ed%99%a9%ec%b0%ac%eb%af%b8-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김정우](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ea%b9%80%ec%a0%95%ec%9a%b0-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김선주](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ea%b9%80%ec%84%a0%ec%a3%bc-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [이예은](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ec%9d%b4%ec%98%88%ec%9d%80-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김기현](http://server.rcv.sejong.ac.kr:8080/2025/08/31/2025-%ed%95%98%ea%b3%84%ea%b9%80%ea%b8%b0%ed%98%84-urp%eb%a5%bc-%eb%a7%88%ec%b9%98%eb%a9%b0/)
@@ -64,6 +46,25 @@
 - (4기) 2020년 하계: [김형준](http://server.rcv.sejong.ac.kr:8080/2020/08/31/2%eb%8b%ac%ea%b0%84%ec%9d%98-%ed%95%99%eb%b6%80%ec%97%b0%ea%b5%ac%eb%a5%bc-%eb%a7%88%eb%ac%b4%eb%a6%ac%ed%95%98%eb%a9%b0/)
 - (3기) 2020년 동계: [정찬호](http://server.rcv.sejong.ac.kr:8080/2020/04/01/3%ea%b0%9c%ec%9b%94-%eb%8f%99%ec%95%88%ec%9d%98-%ed%95%99%eb%b6%80%ec%97%b0%ea%b5%ac-%ec%b0%b8%ec%97%ac-%ea%b8%b0%eb%a1%9d/), [이진수](http://server.rcv.sejong.ac.kr:8080/2020/03/30/3%ea%b0%9c%ec%9b%94-rcv-%ec%97%b0%ea%b5%ac%ec%8b%a4-%ed%95%99%eb%b6%80%ec%97%b0%ea%b5%ac%ec%b0%b8%ec%97%ac%eb%a5%bc-%eb%a7%88%eb%ac%b4%eb%a6%ac-%ed%95%98%eb%a9%b0/)
 - (2기) 2019년 하계: [이동훈](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%ed%9b%84%ea%b8%b0-%eb%b0%8f-%ec%86%8c%ea%b0%90%eb%ac%b8/), [김태주](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%ea%b9%80%ed%83%9c%ec%a3%bc/), [김해린](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern/), [신정민](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%ed%9b%84%ea%b8%b0/), [박연정](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%eb%b0%95%ec%97%b0%ec%a0%95/), [함우빈](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%ed%95%a8%ec%9a%b0%eb%b9%88/), [김병주](http://server.rcv.sejong.ac.kr:8080/2019/08/16/2019-summer-intern-%ea%b9%80%eb%b3%91%ec%a3%bc/)
+
+
+
+### 활동했던 학부연구생들 (링크는 개인 홈페이지)
+- (14기) 2025년 하계: [이재윤(20)](https://github.com/leejaeyun99), [황찬미(21)](https://github.com/chamxmi), [김정우(21)](https://github.com/revistain), [김선주(21)](https://github.com/KImsunju1), [이예은(23)](https://github.com/yeeunleee), [김기현(25)](https://github.com/monozu-deving)
+- (13기) 2025년 동계: [류지연(20)](https://github.com/jeeyunryu), [안우현(19)](https://github.com/anuhyeon), [신인택(20)](https://github.com/shin-in-taek), [손우진(20)](https://github.com/koreawoojin), [김태경(20)](https://github.com/TKkim00), [이계무(20)](https://github.com/Gyemoo), [차승현(20)](https://github.com/seunghyun0108), [조재혁(21)](https://github.com/jhchoman)
+- (12기) 2024년 하계: [한상준(20)](https://github.com/HanSangJun01), [최열음(20)](https://github.com/choiym84), [김나연(20)](https://github.com/naye0n00)
+- (11기) 2024년 동계: 조현석(18), 김영규(19), 이재찬(19), 최준서(21), 이우진(22)
+- (10기) 2023년 하계: 정의철(18), 박성준(19), [김예찬(19)](https://blog.naver.com/dpcksdl78), 박서연(21), 백승우(21), 김이나(21)
+- (09기) 2023년 동계: 양희진(17), 허재연(19), 백지오(19), 손건화(20), 정윤서(20)
+- (8.5기) 2022년 번외: 김도경(19), 강응주(18), 최준영(20)
+- (08기) 2022년 하계: 이상인(17), 이현우(18), 김주연(19), 천혜원(19)
+- (07기) 2022년 동계: 배정준(17), 김현우(18), 이승훈(18), 권석준(18), [조동현(18)](https://www.linkedin.com/in/donghyeon-cho-b24b2b220/), [조용재(18)](https://ircv.hanyang.ac.kr/team/yongjae-cho), 김병주(19), 이규리(20)
+- (06기) 2021년 하계: [이광진(16)](https://scholar.google.com/citations?user=ieIcFBQAAAAJ), [김우혁(17)](https://woo525.github.io/), 조영래(17), 이현주(18), 장윤정(18), 이연희(19), [김지수(19)](https://jisoo1738.github.io/jisoo1738_profile/)
+- (05기) 2021년 동계: 홍주영(18), 임근택(17), [김진명(17)](https://scholar.google.com/citations?user=kQpcUQQAAAAJ&hl=ko), 이승현(19), 조준혁(19)
+- (04기) 2020년 하계: 김형준(14)
+- (03기) 2020년 동계: [이진수(18)](https://github.com/LeeJinSoo-BIN), 정찬호(19)
+- (02기) 2019년 하계: 이동훈(14), 김태주(17), 김해린(17), 신정민(18), 박연정(18), 함우빈(18), 김병주(19)
+- (01기) 2019년 동계: 김지원(14), 김남훈(17), 남현호(17), 조원(17), 한대찬(17), 황유진(18), 이정민(18)    
 
 
 ### 진학 및 진로 상담 모음
